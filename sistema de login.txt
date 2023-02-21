@@ -1,3 +1,4 @@
 Digite seu e-mail:
 Digite a sua senha:
 Digite a sua idade: 
+Digite seu núemro de telefone:
